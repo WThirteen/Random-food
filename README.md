@@ -26,5 +26,6 @@ thinker库。
 ## 个性化推荐等下吃什么。
 
 ## 页面  
-![image](https://github.com/WThirteen/Random-food/assets/100677199/b4e70d6f-3876-4d56-9ad9-3663088ae92c)
+![image](https://github.com/WThirteen/Random-food/assets/100677199/86f26f8a-2929-4d7a-972f-19e56f25449f)
+
 
